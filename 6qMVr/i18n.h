@@ -5,6 +5,7 @@
 #define KC_PC_UNDO LCTL(KC_Z)
 #define KC_PC_CUT LCTL(KC_X)
 #define KC_PC_COPY LCTL(KC_C)
+#define ES_LA_32 S(KC_7)
 #define ES_LA_38 S(KC_1)
 #define ES_LA_25 S(KC_EQUAL)
 #define ES_LA_37 S(KC_2)
